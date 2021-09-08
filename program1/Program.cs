@@ -23,7 +23,7 @@ namespace DIS_Assignmnet1_Fall_2021
 
             Console.WriteLine();
 
-            //Question 2:
+            //Question 2:------
             Console.WriteLine(" Q2 : Enter the string to check for pangram:");
             string s1 = Console.ReadLine();
             bool flag = CheckIfPangram(s1);
